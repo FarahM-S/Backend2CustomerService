@@ -54,3 +54,4 @@ jobs:
           context: .
           push: true
           tags: ${{ vars.DOCKER_CUSTOMER_USERNAME }}/customer:latest
+          #test
